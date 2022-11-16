@@ -193,5 +193,5 @@ handle commands with arguments
 - Your shell should take a file as a command line argument
 
 ## Authors
-* [Maxwell Nmesoma Jennifer](https://https://github.com/Jennie-ace)
-* [Victor Anataku David ](https://github.com/victordavid626)
+* [Maxwell Nmesoma Jennifer] (https://https://github.com/Jennie-ace)
+* [Victor Anataku David] (https://github.com/victordavid626)
