@@ -12,13 +12,6 @@ Simple Shell is a Holberton School pair project. The general goal of the project
 * [Testing](#Testing)
 * [Tasks](#Tasks)
 
-## Installation
-```
-git clone https://github.com/patrickdeyoreo/simple_shell.git
-cd simple_shell
-gcc *.c -o hsh
-```
-
 ## Builtins
 | Command | Synopsis | Description |
 | ------- | -------- | ----------- |
@@ -200,5 +193,5 @@ handle commands with arguments
 - Your shell should take a file as a command line argument
 
 ## Authors
-* [Patrick Deyoreo](https://github.com/patrickdeyoreo)
-* [Banu Sapakova](https://github.com/banuaksom)
+* [Maxwell Nmesoma Jennifer](https://https://github.com/Jennie-ace)
+* [Victor Anataku David ](https://github.com/victordavid626)
